@@ -1,0 +1,7 @@
+apiVersion: wego.weave.works/v1alpha1
+kind: Application
+metadata:
+  name: nginx2
+spec:
+  path: ./
+  url: ssh://git@github.com/jrryjcksn/nginx2.git
