@@ -4,5 +4,4 @@ metadata:
   name: nginx
   namespace: wego-system
 resources:
-- ../../../apps/nginx
 - ../../../apps/nginx2
