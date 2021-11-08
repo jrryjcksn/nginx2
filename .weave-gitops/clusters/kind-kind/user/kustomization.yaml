@@ -3,5 +3,3 @@ kind: Kustomization
 metadata:
   name: nginx2
   namespace: wego-system
-resources:
-- ../../../apps/nginx2
